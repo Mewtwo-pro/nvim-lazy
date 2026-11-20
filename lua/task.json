@@ -1,0 +1,1 @@
+{"play":"./imagen_mov","cmd":"g++ main.cpp -o imagen_mov -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system","path":"/home/manuel/Documents/cppApps/animation/imagen_animation"}
